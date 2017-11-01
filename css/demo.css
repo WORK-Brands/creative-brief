@@ -19,8 +19,8 @@ html, body, .container {
 }
 
 body {
-	background: #3b3f45;
-	color: #fff;
+	background: #ffffff;
+	color: #3b3f45;
 	font-weight: 400;
 	font-size: 1em;
 	font-family: 'Raleway', Arial, sans-serif;
@@ -36,7 +36,7 @@ a {
 }
 
 a:hover, a:focus {
-	color: #fff;
+	color: #3b3f45;
 }
 
 /* Top Navigation Style */
@@ -79,8 +79,8 @@ a:hover, a:focus {
 .codrops-icon-info span {
 	max-width: 75%;
 	z-index: 200;
-	background-color: #3b3f45;
-	padding: 1em !important; 
+	background-color: #ffffff;
+	padding: 1em !important;
 }
 
 .codrops-icon span {
@@ -93,7 +93,7 @@ a:hover, a:focus {
 
 .codrops-icon:hover span {
 	display: block;
-	color: #6a7b7e;
+	color: #aec9cc;
 }
 
 /* Related demos */
@@ -102,7 +102,7 @@ a:hover, a:focus {
 	text-align: center;
 	padding: 5em 0;
 	display: none;
-	background: #fff;
+	background: #3b3f45;
 	color: rgba(0,0,0,0.3);
 }
 
@@ -121,7 +121,7 @@ a:hover, a:focus {
 
 .related > a:hover,
 .related > a:focus {
-	color: rgba(0,0,0,0.5);
+	color: rgba(255,255,255,0.5);
 }
 
 .related a img {
